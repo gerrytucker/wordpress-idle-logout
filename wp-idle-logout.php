@@ -5,6 +5,8 @@
 	Version: 1.0
 	Author: Gerry Tucker
 	Author URI: http://gerrytucker.co.uk/
+	Requires at least: 2.8
+	Tested up to: 4.1
 	GitHub Plugin URI: https://github.com/gerrytucker/wordpress-idle-logout
 	GitHub Plugin Branch: develop
 */
