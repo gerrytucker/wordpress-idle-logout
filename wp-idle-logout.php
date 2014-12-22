@@ -1,8 +1,9 @@
 <?php
 /*
 	Plugin Name: WordPress Idle Logout
+	Plugin URI: https://github.com/gerrytucker/wordpress-idle-logout
 	Description: Automatically logs out inactive users.
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: Gerry Tucker
 	Author URI: http://gerrytucker.co.uk/
 	Requires at least: 2.8
